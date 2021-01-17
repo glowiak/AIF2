@@ -1,6 +1,8 @@
 # AIF2 - Arch Linux Installer
 
-# First download https://github.com/glowiak/AIF2/releases/download/2.0.0-bios/setup-pre, and type following commands:
+
+# BIOS
+First download https://github.com/glowiak/AIF2/releases/download/2.0.0-bios/setup-pre, and type following commands:
   - chmod +x setup-pre
   - ./setup-pre
 Follow the instructions. After setup-pre will complete installation type:
